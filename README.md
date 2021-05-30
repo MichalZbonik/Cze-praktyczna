@@ -2,3 +2,4 @@
 Zaliczenie
 First name and last name : Michał Zbonik
 Index number 47727
+E-mail adress: michal-zbonik@wp.pl
